@@ -1,0 +1,32 @@
+LASERJOIN STUDIO — VERSIÓN PÚBLICA
+
+Esta carpeta está preparada para hosting Python público.
+
+ARCHIVOS IMPORTANTES
+- app.py
+- requirements.txt
+- Procfile
+- railway.json
+- render.yaml
+- templates/
+- static/
+
+CUANDO ESTÉ PUBLICADA
+La plataforma te dará primero una URL pública temporal.
+Ejemplo conceptual:
+https://laserjoin-studio.[proveedor]
+
+Después podés conectar un dominio propio como:
+https://encastresaura.com
+
+DOMINIO
+El dominio se registra por separado en un registrador.
+Primero hay que comprobar que el nombre esté disponible.
+
+GOOGLE
+Tener el dominio funcionando y aparecer en resultados de Google son dos cosas distintas:
+1. El dominio funciona en cuanto DNS/hosting estén configurados.
+2. Para que aparezca en búsquedas de Google hay que permitir/indexar el sitio; puede tardar.
+
+NOTA
+No guardes contraseñas, tokens ni claves dentro de estos archivos.
